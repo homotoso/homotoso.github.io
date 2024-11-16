@@ -7,6 +7,14 @@ header {
   margin-bottom: 20px;
   border-radius: 20px;
 }
+
+header h1 { 
+  font-family: 'Arial', sans-serif; 
+  font-size: 2.5em; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+  margin: 0; 
+  padding: 10px 0;
+
 main{
   text-align: center;
 }
